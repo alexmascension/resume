@@ -100,7 +100,16 @@
       "highlights": []
     }
   ],
-  "volunteer": [
+    "volunteer": [
+    {
+      "organization": "RSG Spain",
+      "position": "Basque Country leader node",
+      "url": "http://www.rsg-spain.iscbsc.org/",
+      "startDate": "2019-10-10",
+      "endDate": "Present",
+      "summary": "Spanish bioinformatics student group.",
+      "highlights": []
+    }
   ],
   "education": [
       {
@@ -485,7 +494,22 @@
   ],
   "interests": [],
   "references": [],
-  "projects": [],
+  "projects": [
+    {
+      "name": "Análisis de datos masivos (Big Data) aplicado a enfermedad renal",
+      "description": "Supervised project of Leire Ahedo Fontaneda.",
+      "highlights": ["Transición del mundo educativo al laboral"],
+      "keywords": [],
+      "startDate": "2019-08-01",
+      "endDate": "2019-05-01",
+      "url": "",
+      "roles": [
+        "Project supervisor"
+      ],
+      "entity": "University of the Basque Country (UPV-EHU)",
+      "type": ""
+    }
+  ],
   "meta": {
   }
 }
