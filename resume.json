@@ -1,0 +1,186 @@
+{
+  "$schema": "schema.json",
+  "basics": {
+    "name": "Alex M. Ascensión",
+    "label": "Computational Biologist",
+    "image": "",
+    "email": "alexmascension@gmail.com",
+    "phone": "(+34) 638 58 50 68",
+    "url": "https://www.gitlab.com/alexmascension",
+    "summary": "I am a computational biologist interested in joining Biology and Mathematics. I love data analysis and data design. I earned the Biochemistry and Molecular Biology degree at the University of The Basque Country (UPV-EHU), and then I earned the Bioinformatics Masters Degree at Universitat Autonoma de Barcelona (UAB). I am currently studying the Mathematics degree at the National University of Distance Education (UNED), part-time, to complement my programming and science knowledge with some Mathematics.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "Donostia",
+      "countryCode": "ES",
+      "region": "Basque Country"
+    },
+    "profiles": [
+      {
+        "network": "Twitter",
+        "username": "alexmascension",
+        "url": "https://twitter.com/alexmascension"
+      },
+      {
+        "network": "Gitlab",
+        "username": "alexmascension",
+        "url": "https://www.gitlab.com/alexmascension"
+      },
+      {
+        "network": "Linkedin",
+        "username": "alexmascension",
+        "url": "https://www.linkedin.com/in/alex-mart%C3%ADnez-ascensi%C3%B3n-343580105/"
+      }
+    ]
+  },
+  "work": [
+  ],
+  "volunteer": [
+  ],
+  "education": [
+      {
+      "institution": "National University of Distance Education (UNED)",
+      "name": "Bachelor's degree in Mathematics"
+      "url": "http://portal.uned.es/portal/page?_pageid=93,56692155&_dad=portal&_schema=PORTAL",
+      "area": "Mathematics",
+      "studyType": "BSc",
+      "startDate": "2016-09-01",
+      "endDate": "Present",
+      "score": "9.60",
+      "courses": [],
+      "highlights": [
+        "Part time student"
+      ]
+    },
+    {
+      "institution": "University of the Basque Country (UPV-EHU)",
+      "name": "Doctoral Programme in Molecular Biology and Biomedicine"
+      "url": "https://www.ehu.eus/en/web/doktoregoak/doctorate-molecular-biology-biomedicine",
+      "area": "Biological Sciences",
+      "studyType": "PhD",
+      "startDate": "2018-10-01",
+      "endDate": "Present",
+      "score": "9.60",
+      "courses": [],
+      "highlights": []
+    },
+      {
+      "institution": "Universitat Autonoma de Barcelona (UAB)",
+      "name": "Master's Degree in Bioinformatics"
+      "url": "https://www.uab.cat/web/estudiar/la-oferta-de-masteres-oficiales/informacion-general/bioinformatica-/-bioinformatics-1096480309770.html?param1=1327908905033",
+      "area": "Biological Sciences",
+      "studyType": "MSc",
+      "startDate": "2017-10-01",
+      "endDate": "2018-07-24",
+      "score": "9.60",
+      "courses": [],
+      "highlights": [
+        "Honors in Master's thesis."
+      ]
+    },
+    {
+      "institution": "University of the Basque Country (UPV-EHU)",
+      "name": "Bachelor's Degree in Biochemistry and Molecular Biology"
+      "url": "https://www.ehu.eus/es/grado-bioquimica-y-biologia-molecular",
+      "area": "Biological Sciences",
+      "studyType": "BSc",
+      "startDate": "2013-09-01",
+      "endDate": "2017-07-28",
+      "score": "8.67",
+      "courses": [],
+      "highlights": [
+        "Graduated with honors.",
+        "Honors in Bachelor's thesis."
+      ]
+    }
+    
+  ],
+  "grants": [
+      {
+        "title": "Programa Predoctoral de Formación de Personal Investigador No Doctor [Predoc renovación]",
+        "code": "PRE_2019_2_0233, PRE_2020_2_0081",
+        "startDate": "2020-01-01",
+        "endDate": "2022-01-01",
+        "provider": "Basque Government, Education Department",
+        "summary": ""
+        },
+      {
+        "title": "Programa Predoctoral de Formación de Personal Investigador No Doctor [Predoc berri]",
+        "code": "PRE_2018_1_0008",
+        "startDate": "2019-01-01",
+        "endDate": "2020-01-01",
+        "provider": "Basque Government, Education Department",
+        "summary": ""
+        },
+    {
+        "title": "Ikasiker collaboration grant",
+        "code": "IkasC_2016_1_0017",
+        "startDate": "2016-11-30",
+        "endDate": "2017-08-30",
+        "provider": "Basque Government, Education Department",
+        "summary": "Obtained during the development of the Bachelor's thesis."
+        }
+  ],
+  "publications": [],
+  "scientific articles": [
+    {
+      "title": "Human dermal fibroblast subpopulations are conserved across single-cell RNA sequencing studies.",
+      "authors": [
+        "Alex M Ascensión", 
+        "Sandra Fuertes-Álvarez", 
+        "Olga Ibáñez-Solé", 
+        "Ander Izeta",
+        "Marcos J. Araúzo-Bravo"
+      ],
+      "journal": "Journal of Investigative Dermatology.",
+      "volume": "",
+      "releaseDate": "2020-12-29",
+      "doi": "https://doi.org/10.1016/j.jid.2020.11.028",
+      "impact factor": "7.143",
+      "category": "Dermatology",
+      "rank": "3/68"
+    },
+    {
+      "title": "Human dermal fibroblast subpopulations are conserved across single-cell RNA sequencing studies.",
+      "authors": [
+        "Alex M Ascensión", 
+        "Sandra Fuertes-Álvarez", 
+        "Olga Ibáñez-Solé", 
+        "Ander Izeta",
+        "Marcos J. Araúzo-Bravo"
+      ],
+      "journal": "Journal of Investigative Dermatology.",
+      "volume": "",
+      "releaseDate": "2020-12-29",
+      "doi": "https://doi.org/10.1016/j.jid.2020.11.028",
+      "impact factor": "7.143",
+      "category": "Dermatology",
+      "rank": "3/68"
+    }
+  ],
+  "skills": [
+
+  ],
+  "languages": [
+    {
+      "language": "Spanish",
+      "fluency": "Native speaker"
+    }, 
+    {
+      "language": "Basque",
+      "fluency": "Native speaker (B2 - EOI)"
+    }, 
+    {
+      "language": "English",
+      "fluency": "CAE (C1)"
+    }
+  ],
+  "interests": [
+  ],
+  "references": [
+
+  ],
+  "projects": [],
+  "meta": {
+  }
+}
