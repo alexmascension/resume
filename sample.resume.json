@@ -145,6 +145,32 @@
       "pdf": "https://doi.org/10.1101/850131v1"
     }
   ],
+"curricular activities": [
+    {
+      "title": "Web Application Technologies and Django (1/4)",
+      "entity": "Coursera",
+      "instructor": "Charles Russell Severance (U. Michigan)",
+      "location": "Online",
+      "startDate": "2020-09-01",
+      "endDate": "2020-09-23",
+      "summary": "I learned about the HTML basics, GET/POST, CSS, SQL",
+      "url": "https://www.coursera.org/learn/django-database-web-apps",
+      "certificate-url": "https://www.coursera.org/account/accomplishments/certificate/8TUAQU5X74NY"
+    }
+  ],
+"conferences": [
+    {
+      "title": "Human Cell Atlas, Barcelona Meeting",
+      "conference-type": "Conference",
+      "activity": "Attendee",
+      "entity": "Human Cell Atlas",
+      "location": "Barcelona, Spain",
+      "startDate": "2019-10-10",
+      "endDate": "2019-10-11",
+      "summary": "",
+      "url": ""
+    }
+  ],
   "skills": [
     {
       "name": "Web Development",

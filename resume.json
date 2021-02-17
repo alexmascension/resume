@@ -398,9 +398,77 @@
       "pdf": "https://www.biorxiv.org/content/10.1101/850131v1.full.pdf"
     }
   ],
-  "skills": [
-
+  "curricular activities": [
+    {
+      "title": "Web Application Technologies and Django (1/4)",
+      "entity": "Coursera",
+      "instructor": "Charles Russell Severance (U. Michigan)",
+      "location": "Online",
+      "startDate": "2020-09-01",
+      "endDate": "2020-09-23",
+      "summary": "I learned about the HTML basics, GET/POST, CSS, SQL.",
+      "url": "https://www.coursera.org/learn/django-database-web-apps",
+      "certificate-url": "https://www.coursera.org/account/accomplishments/certificate/8TUAQU5X74NY"
+    }, 
+    {
+      "title": "Neuural Networks and Deep Learning",
+      "entity": "Coursera",
+      "instructor": "Andrew Ng (DeepLearning.ai)",
+      "location": "Online",
+      "startDate": "2019-07-19",
+      "endDate": "2019-06-17",
+      "summary": "I learned about the basic model construction of a neural network, and the theorical bases of backpropagation.",
+      "url": "https://www.coursera.org/learn/neural-networks-deep-learning",
+      "certificate-url": "https://www.coursera.org/account/accomplishments/certificate/EGVRKKDRMUJ8"
+    },
+    {
+      "title": "Web Application Technologies and Django (1/4)",
+      "entity": "Coursera",
+      "instructor": "Charles Russell Severance (U. Michigan)",
+      "location": "Online",
+      "startDate": "2020-09-01",
+      "endDate": "2020-09-23",
+      "summary": "I learned about the HTML basics, GET/POST, CSS, SQL",
+      "url": "https://www.coursera.org/learn/django-database-web-apps",
+      "certificate-url": "https://www.coursera.org/account/accomplishments/certificate/YSDQ2QGG9J23"
+    }
   ],
+  "conferences": [
+    {
+      "title": "Human Cell Atlas, Barcelona Meeting",
+      "conference-type": "Conference",
+      "activity": "Attendee",
+      "entity": "Human Cell Atlas",
+      "location": "Barcelona, Spain",
+      "startDate": "2019-10-10",
+      "endDate": "2019-10-11",
+      "summary": "",
+      "url": ""
+    },
+    {
+      "title": "Bioinformatics Student Symposium",
+      "conference-type": "Conference",
+      "activity": "Poster presentation",
+      "entity": "ISCB Regional Student Group",
+      "location": "Leuven, Belgium",
+      "startDate": "2019-05-03",
+      "endDate": "2019-05-03",
+      "summary": "",
+      "url": ""
+    },
+    {
+      "title": "VI Jornada de Bioinformàtica i Genòmica",
+      "conference-type": "Conference",
+      "activity": "Attendee",
+      "entity": "Societat Catalana de Biologia",
+      "location": "Barcelona, Spain",
+      "startDate": "2018-12-20",
+      "endDate": "2018-12-20",
+      "summary": "",
+      "url": ""
+    }
+  ],
+  "skills": [],
   "languages": [
     {
       "language": "Spanish",
@@ -415,11 +483,8 @@
       "fluency": "CAE (C1)"
     }
   ],
-  "interests": [
-  ],
-  "references": [
-
-  ],
+  "interests": [],
+  "references": [],
   "projects": [],
   "meta": {
   }

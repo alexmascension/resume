@@ -307,35 +307,6 @@
         }
       }
     },
-    "certificates": {
-      "type": "array",
-      "description": "Specify any certificates you have received throughout your professional career",
-      "additionalItems": false,
-      "items": {
-        "type": "object",
-        "additionalProperties": true,
-        "properties": {
-          "name": {
-            "type": "string",
-            "description": "e.g. Certified Kubernetes Administrator"
-          },
-          "date": {
-            "type": "string",
-            "description": "e.g. 1989-06-12",
-            "format": "date"
-          },
-          "url": {
-            "type": "string",
-            "description": "e.g. http://example.com",
-            "format": "uri"
-          },
-          "issuer": {
-            "type": "string",
-            "description": "e.g. CNCF"
-          }
-        }
-      }
-    },
     "publications": {
       "type": "array",
       "description": "Specify your publications through your career",
@@ -469,6 +440,98 @@
             "type": "string",
             "description": "e.g. http://www.computer.org.example.com/csdl/mags/co/1996/10/rx069-abs.html",
             "format": "uri"
+          }
+          }
+        }
+      }
+    },
+    "curricular activities": {
+      "type": "array",
+      "description": "Courses and certificate-based formation",
+      "additionalItems": false,
+      "items": {
+        "type": "object",
+        "additionalProperties": true,
+        "properties": {
+          "title": {
+            "type": "string",
+            "description": "e.g. The World Wide Web"
+          },
+          "entity": {
+            "type": "string",
+            "description": "e.g. The World Wide Web"
+          },
+          "instructor": {
+            "type": "string",
+            "description": "e.g. The World Wide Web"
+          },
+          "location": {
+            "type": "string",
+            "description": "e.g. The World Wide Web"
+          },
+          "startDate": {
+            "$ref": "#/definitions/iso8601"
+          },
+          "endDate": {
+            "$ref": "#/definitions/iso8601"
+          },
+          "summary": {
+            "type": "string",
+            "description": "e.g. The World Wide Web"
+          },
+          "url": {
+            "type": "string",
+            "description": "e.g. The World Wide Web"
+          },
+          "certificate-url": {
+            "type": "string",
+            "description": "e.g. The World Wide Web"
+          }
+          }
+        }
+      }
+    },
+    "conferences": {
+      "type": "array",
+      "description": "Interesting conferences where I went to",
+      "additionalItems": false,
+      "items": {
+        "type": "object",
+        "additionalProperties": true,
+        "properties": {
+          "title": {
+            "type": "string",
+            "description": "e.g. The World Wide Web"
+          },
+          "conference-type": {
+            "type": "string",
+            "description": "e.g. The World Wide Web"
+          },
+          "activity": {
+            "type": "string",
+            "description": "e.g. The World Wide Web"
+          },
+          "entity": {
+            "type": "string",
+            "description": "e.g. The World Wide Web"
+          },
+          "location": {
+            "type": "string",
+            "description": "e.g. The World Wide Web"
+          },
+          "startDate": {
+            "$ref": "#/definitions/iso8601"
+          },
+          "endDate": {
+            "$ref": "#/definitions/iso8601"
+          },
+          "summary": {
+            "type": "string",
+            "description": "e.g. The World Wide Web"
+          },
+          "url": {
+            "type": "string",
+            "description": "e.g. The World Wide Web"
           }
           }
         }
