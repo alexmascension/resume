@@ -118,11 +118,13 @@
       ],
       "journal": "Journal of Investigative Dermatology",
       "volume": "",
-      "releaseDate": "2020-12-29",
+      "year": "2020",
+      "month": "12",
       "doi": "https://doi.org/10.1016/j.jid.2020.11.028",
       "impact factor": "7.143",
       "category": "Dermatology",
-      "rank": "3/68"
+      "rank": "3/68",
+      "pdf": "https://doi.org/10.1101/850131v1"
     }
   ],
   "preprints": [
@@ -137,8 +139,10 @@
       ],
       "journal": "bioRxiv",
       "volume": "",
-      "releaseDate": "2020-12-29",
-      "doi": "https://doi.org/10.1101/850131v1"
+      "year": "2020",
+      "month": "12",
+      "doi": "https://doi.org/10.1101/850131v1",
+      "pdf": "https://doi.org/10.1101/850131v1"
     }
   ],
   "skills": [

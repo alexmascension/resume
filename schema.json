@@ -395,8 +395,13 @@
             "type": "string",
             "description": "34"
           },
-          "releaseDate": {
-            "$ref": "#/definitions/iso8601"
+          "year": {
+            "type": "string",
+            "description": "2020"
+          },
+          "month": {
+            "type": "string",
+            "description": "12"
           },
           "doi": {
             "type": "string",
@@ -414,6 +419,11 @@
           "rank": {
             "type": "string",
             "description": "12/134"
+          },
+          "pdf": {
+            "type": "string",
+            "description": "e.g. http://www.computer.org.example.com/csdl/mags/co/1996/10/rx069-abs.html",
+            "format": "uri"
           }
         }
       }
@@ -442,14 +452,24 @@
             "type": "string",
             "description": "e.g. IEEE, Computer Magazine"
           },
-          "releaseDate": {
-            "$ref": "#/definitions/iso8601"
+          "year": {
+            "type": "string",
+            "description": "2020"
+          },
+          "month": {
+            "type": "string",
+            "description": "12"
           },
           "doi": {
             "type": "string",
             "description": "e.g. http://www.computer.org.example.com/csdl/mags/co/1996/10/rx069-abs.html",
             "format": "uri"
           },
+          "pdf": {
+            "type": "string",
+            "description": "e.g. http://www.computer.org.example.com/csdl/mags/co/1996/10/rx069-abs.html",
+            "format": "uri"
+          }
           }
         }
       }
