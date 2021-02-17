@@ -22,11 +22,6 @@
         "url": "https://twitter.com/alexmascension"
       },
       {
-        "network": "Google Scholar",
-        "username": "Alex M. Ascensión",
-        "url": "https://scholar.google.es/citations?user=j69k8KEAAAAJ&hl=en"
-      },
-      {
         "network": "Gitlab",
         "username": "alexmascension",
         "url": "https://www.gitlab.com/alexmascension"
@@ -35,6 +30,16 @@
         "network": "Linkedin",
         "username": "alexmascension",
         "url": "https://www.linkedin.com/in/alex-mart%C3%ADnez-ascensi%C3%B3n-343580105/"
+      },
+      {
+        "network": "Google Scholar",
+        "username": "Alex M. Ascensión",
+        "url": "https://scholar.google.es/citations?user=j69k8KEAAAAJ&hl=en"
+      },
+      {
+        "network": "ORCiD",
+        "username": "Alex M. Ascensión",
+        "url": "https://orcid.org/0000-0002-0013-3052"
       }
     ]
   },
@@ -80,7 +85,18 @@
       "url": "http://www.bionanoplasmonics.com/",
       "startDate": "2015-06-29",
       "endDate": "2016-08-15",
-      "summary": "Interaction of Pseudomonas aeruginosa with lung A549 cells and the effects of pyocyanin.",
+      "summary": "I worked under the supervision of Malou Henriksen-Lacey and Eric Hill (Luis Liz Marzán's lab) in the project 'Interaction of Pseudomonas aeruginosa with lung A549 cells and the effects of pyocyanin'.",
+      "highlights": []
+    },
+    {
+      "name": "Biofisika, UPV-EHU",
+      "location": "Barrio Sarriena, 48940, Leioa, Bizkaia",
+      "description": "Optogenetics lab",
+      "position": "Undergraduate",
+      "url": "https://biofisika.org/author/alvillarroel/",
+      "startDate": "2015-02-01",
+      "endDate": "2016-05-01",
+      "summary": "I worked under the supervision of Álvaro Villarroel. I learned to perform basic biochemistry methods (DNA/RNA purification, PCR, bacterial cloning, etc.).",
       "highlights": []
     }
   ],
@@ -171,7 +187,7 @@
         }
   ],
   "publications": [],
-  "scientific articles": [
+  "scientific publications": [
     {
       "title": "FOntCell: Fusion of Ontologies of Cells",
       "authors": [

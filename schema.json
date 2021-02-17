@@ -367,7 +367,7 @@
         }
       }
     },
-    "scientific articles": {
+    "scientific publications": {
       "type": "array",
       "description": "Specify your publications through your career",
       "additionalItems": false,
