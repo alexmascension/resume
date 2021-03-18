@@ -444,6 +444,17 @@
   ],
   "conferences": [
     {
+      "title": "10x Genomics Virtual User Group Meeting - Spain",
+      "conference-type": "Conference",
+      "activity": "Attendee",
+      "entity": "10X",
+      "location": "Virtual meeting, Spain",
+      "startDate": "2021-03-18",
+      "endDate": "2021-03-18",
+      "summary": "",
+      "url": ""
+    },
+    {
       "title": "Human Cell Atlas, Barcelona Meeting",
       "conference-type": "Conference",
       "activity": "Attendee",
