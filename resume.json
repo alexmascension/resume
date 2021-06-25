@@ -443,6 +443,17 @@
     }
   ],
   "conferences": [
+     {
+      "title": " I Jornada sobre Inteligencia Artificial, ética y legislación",
+      "conference-type": "Conference",
+      "activity": "Attendee",
+      "entity": "University of the Basque Country",
+      "location": "Donostia, Spain",
+      "startDate": "2021-06-25",
+      "endDate": "2021-06-25",
+      "summary": "",
+      "url": "https://www.uik.eus/en/node/3409/pdf"
+    },
     {
       "title": "10x Genomics Virtual User Group Meeting - Spain",
       "conference-type": "Conference",
