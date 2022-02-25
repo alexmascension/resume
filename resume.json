@@ -450,6 +450,17 @@
   ],
   "curricular activities": [
     {
+      "title": "Focus on Peer Review",
+      "entity": "Nature Masterclass",
+      "instructor": "Nature Masterclass",
+      "location": "Online",
+      "startDate": "2022-02-25",
+      "endDate": "2022-02-25",
+      "summary": "I learned about the different types of peer review, including novel models of peer review. I also learned about implicit bias, the process and formal aspects of peer revire, and recommendations of dos and don'ts regarding conflicts of interests and reviewing ability.",
+      "url": "https://masterclasses.nature.com/focus-on-peer-review-online-course/16605550",
+      "certificate-url": ""
+    }, 
+    {
       "title": "Web Application Technologies and Django (1/4)",
       "entity": "Coursera",
       "instructor": "Charles Russell Severance (U. Michigan)",
