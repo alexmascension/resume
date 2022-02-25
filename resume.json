@@ -198,6 +198,23 @@
   "publications": [],
   "scientific publications": [
      {
+      "title": "Challenges and Opportunities for the Translation of Single-Cell RNA Sequencing Technologies to Dermatology",
+      "authors": [
+        "Alex M. Ascensión",
+        "Marcos J. Araúzo-Bravo",
+        "Ander Izeta"
+      ],
+      "journal": "Life",
+      "volume": "12",
+      "year": "2022",
+      "month": "01",
+      "doi": "https://doi.org/10.3390/life12010067",
+      "impact factor": "3.817",
+      "category": "Biology",
+      "rank": "27/93",
+      "pdf": "https://www.mdpi.com/2075-1729/12/1/67/pdf"
+    },
+     {
       "title": "Putative role of MCT1 rs1049434 polymorphism in high-intensity endurance performance: concept and basis to understand possible individualization stimulus",
       "authors": [
         "Xavier Ramírez de la Piscina-Viúdez",
@@ -212,14 +229,14 @@
         "Adrián Odriozola-Martínez"
       ],
       "journal": "Sports",
-      "volume": "",
+      "volume": "9",
       "year": "2021",
       "month": "10",
-      "doi": "",
+      "doi": "https://doi.org/10.3390/sports9100143",
       "impact factor": "",
-      "category": "",
-      "rank": "",
-      "pdf": ""
+      "category": "Sport Sciences",
+      "rank": "59/116",
+      "pdf": "https://www.mdpi.com/2075-4663/9/10/143/pdf"
     },
      {
       "title": "The need to reassess single-cell RNA sequencing datasets: more is not always better",
