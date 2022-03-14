@@ -197,6 +197,25 @@
   ],
   "publications": [],
   "scientific publications": [
+    {
+      "title": "Triku: a feature selection method based on nearest neighbors for single-cell data ",
+      "authors": [
+        "Alex M. Ascensión",
+        "Olga Ibáñez-Sole",
+        "Iñaki Inza",
+        "Ander Izeta",
+        "Marcos J. Araúzo-Bravo"
+      ],
+      "journal": "GigaScience",
+      "volume": "11",
+      "year": "2022",
+      "month": "03",
+      "doi": "https://doi.org/10.1093/gigascience/giac017",
+      "impact factor": "6.52",
+      "category": "Computer Science Applications",
+      "rank": "17/465",
+      "pdf": "https://academic.oup.com/gigascience/article-pdf/doi/10.1093/gigascience/giac017/42869953/giac017.pdf"
+    },
      {
       "title": "Challenges and Opportunities for the Translation of Single-Cell RNA Sequencing Technologies to Dermatology",
       "authors": [
