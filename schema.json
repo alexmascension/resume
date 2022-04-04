@@ -383,6 +383,10 @@
             "type": "string",
             "description": "3.786"
           },
+          "impact h-index": {
+            "type": "string",
+            "description": "245"
+          },  
           "category": {
             "type": "string",
             "description": "Statistics"
