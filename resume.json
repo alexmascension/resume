@@ -172,9 +172,25 @@
   "grants": [
       {
         "title": "Programa Predoctoral de Formación de Personal Investigador No Doctor [Predoc renovación]",
-        "code": "PRE_2019_2_0233, PRE_2020_2_0081",
-        "startDate": "2020-01-01",
+        "code": "PRE_2021_2_0111",
+        "startDate": "2022-01-01",
+        "endDate": "2023-01-01",
+        "provider": "Basque Government, Education Department",
+        "summary": ""
+        },
+      {
+        "title": "Programa Predoctoral de Formación de Personal Investigador No Doctor [Predoc renovación]",
+        "code": "PRE_2020_2_0081",
+        "startDate": "2021-01-01",
         "endDate": "2022-01-01",
+        "provider": "Basque Government, Education Department",
+        "summary": ""
+        },
+      {
+        "title": "Programa Predoctoral de Formación de Personal Investigador No Doctor [Predoc renovación]",
+        "code": "PRE_2019_2_0233",
+        "startDate": "2020-01-01",
+        "endDate": "2021-01-01",
         "provider": "Basque Government, Education Department",
         "summary": ""
         },
@@ -197,6 +213,24 @@
   ],
   "publications": [],
   "scientific publications": [
+     {
+      "title": "The need to reassess single-cell RNA sequencing datasets: the importance of biological sample processing",
+      "authors": [
+        "Alex M. Ascensión", 
+        "Marcos J. Araúzo-Bravo",
+        "Ander Izeta"
+      ],
+      "journal": "F1000 Research",
+      "volume": "10",
+      "year": "2022",
+      "month": "02",
+      "doi": "https://doi.org/10.12688/f1000research.54864.2",
+      "impact factor": "5.0",
+      "h-index": "60",
+      "category": "Pharmacology, Toxicology and Pharmaceutics (miscellaneous)",
+      "rank": "13/67",
+      "pdf": "https://f1000research.com/articles/10-767/v2/pdf"
+    },
     {
       "title": "Triku: a feature selection method based on nearest neighbors for single-cell data ",
       "authors": [
@@ -212,6 +246,7 @@
       "month": "03",
       "doi": "https://doi.org/10.1093/gigascience/giac017",
       "impact factor": "6.52",
+      "h-index": "54",
       "category": "Computer Science Applications",
       "rank": "17/465",
       "pdf": "https://academic.oup.com/gigascience/article-pdf/doi/10.1093/gigascience/giac017/42869953/giac017.pdf"
@@ -229,6 +264,7 @@
       "month": "01",
       "doi": "https://doi.org/10.3390/life12010067",
       "impact factor": "3.817",
+      "h-index": "33",
       "category": "Biology",
       "rank": "27/93",
       "pdf": "https://www.mdpi.com/2075-1729/12/1/67/pdf"
@@ -253,26 +289,10 @@
       "month": "10",
       "doi": "https://doi.org/10.3390/sports9100143",
       "impact factor": "",
+      "h-index": "",
       "category": "Sport Sciences",
       "rank": "59/116",
       "pdf": "https://www.mdpi.com/2075-4663/9/10/143/pdf"
-    },
-     {
-      "title": "The need to reassess single-cell RNA sequencing datasets: more is not always better",
-      "authors": [
-        "Alex M. Ascensión", 
-        "Marcos J. Araúzo-Bravo",
-        "Ander Izeta"
-      ],
-      "journal": "F1000 Research",
-      "volume": "10",
-      "year": "2021",
-      "month": "06",
-      "doi": "https://doi.org/10.12688/f1000research.54864.1",
-      "impact factor": "",
-      "category": "Sport sciences",
-      "rank": "59/116",
-      "pdf": ""
     },
     {
       "title": "FOntCell: Fusion of Ontologies of Cells",
@@ -289,6 +309,7 @@
       "month": "02",
       "doi": "https://doi.org/10.3389/fcell.2021.562908",
       "impact factor": "5.186",
+      "h-index": "53",
       "category": "Developmental Biology",
       "rank": "6/41",
       "pdf": "https://www.frontiersin.org/articles/10.3389/fcell.2021.562908/pdf"
@@ -308,6 +329,7 @@
       "month": "12",
       "doi": "https://doi.org/10.1016/j.jid.2020.11.028",
       "impact factor": "7.143",
+      "h-index": "201",
       "category": "Dermatology",
       "rank": "3/68",
       "pdf": "https://www.jidonline.org/action/showPdf?pii=S0022-202X%2820%2932403-9"
@@ -324,6 +346,7 @@
       "month": "12",
       "doi": "https://doi.org/10.1109/TCBB.2020.3043979",
       "impact factor": "3.015",
+      "h-index": "72",
       "category": "Statistics and Probability",
       "rank": "11/124",
       "pdf": "https://www.researchgate.net/profile/Alex_Martinez_Ascension/publication/347759884_BigMPI4py_Python_module_for_parallelization_of_Big_Data_objects_discloses_germ_layer_specific_DNA_demethylation_motifs/links/600eb64992851c13fe35a5eb/BigMPI4py-Python-module-for-parallelization-of-Big-Data-objects-discloses-germ-layer-specific-DNA-demethylation-motifs.pdf?_sg%5B0%5D=qvbnStckhadZqjLcy9PBVzl89lonOd0fa4LKS_gn6QcQ59DixPgt-zYn4hZdTCt6zoVwW5rzWSIH3I4VGGVGSw.QSJ-DVLwsBQedWAnoh8VRgBmOrbxykRY5hgmhWA4aZIdsPFizqofXCj3XnmgYrFcOcqmrZEjeJuaFKlSNaSKVQ&_sg%5B1%5D=tTf7OnK7JUdFMNYdO8Cxk1h0AQJ798kjwOAbvSLVTt2SZ9jrZMGxbG9veM_v02FQtBNItinQ9y3dn4Rp2p17eNu3kXe483kZBFUhzjRwf5dy.QSJ-DVLwsBQedWAnoh8VRgBmOrbxykRY5hgmhWA4aZIdsPFizqofXCj3XnmgYrFcOcqmrZEjeJuaFKlSNaSKVQ&_sg%5B2%5D=WYTLuLEp5X_M1zh4eO1SN-_C8qieDeK2mVeWVB4GQ6Ou7HH5EgoQbNt7Udv3QVE_ihjRyv9XQBJRrW0.6j90QaM3uSeKTCuwfhWZwmaHQePuGYEJbk_0CDsuWjEGBVvMdJVovps02g3dZzpgplHdz5wIu_xxqqpOzt9CQw&_iepl="
@@ -382,6 +405,7 @@
       "month": "04",
       "doi": "https://doi.org/10.1172/jci130",
       "impact factor": "12.282",
+      "h-index": "488",
       "category": "Medicine",
       "rank": "3/136",
       "pdf": "https://www.jci.org/articles/view/130379/version/3/pdf/render.pdf"
@@ -414,6 +438,7 @@
       "month": "10",
       "doi": "https://doi.org/10.1016/j.celrep.2019.09.035",
       "impact factor": "7.815",
+      "h-index": "154",
       "category": "Cell Biology",
       "rank": "29/193",
       "pdf": "https://www.cell.com/cell-reports/pdfExtended/S2211-1247(19)31223-9"
@@ -432,6 +457,7 @@
       "month": "07",
       "doi": "https://doi.org/10.1186/s12859-017-1698-5",
       "impact factor": "2.213",
+      "h-index": "208",
       "category": "Mathematical & Computational Biology",
       "rank": "14/59",
       "pdf": "https://bmcbioinformatics.biomedcentral.com/track/pdf/10.1186/s12859-017-1698-5.pdf"
